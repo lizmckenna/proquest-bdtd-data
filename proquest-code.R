@@ -18,7 +18,7 @@ pq_all <- rbind(pq1, pq2, pq3)
 
 library(ggplot2)
 count <- ggplot(pq_all, aes(x = pq_all$pubdate)) +
-  geom_histogram(aes(fill = ..count..), binwidth = 1) +
+  geom_histogram(aes(fill = ..count..), binwidth = .5) +
   scale_x_continuous(name = "Year",
                      breaks = seq(2000, 2017),
                      limits=c(2004, 2018)) +
@@ -26,3 +26,6 @@ count <- ggplot(pq_all, aes(x = pq_all$pubdate)) +
   ggtitle("Frequency histogram of dissertations on global social movements") +
   scale_fill_gradient("Count", low = "blue", high = "red")
 count
+
+#now write to csv for random sample coding of movements studied
+write.csv(pq_all, file = "pq_all.csv")
