@@ -1,7 +1,7 @@
 setwd("/Users/elizabethmckenna/Dropbox/GSM")
 rm(list=ls())
 
-#proquest only permits 1,000 downloads at a time, so the data is saved in three separate csvs:
+#proquest only permits 1,000 downloads at a time, so the data is saved in five separate csvs:
 
 pq1=read.csv("/Users/elizabethmckenna/Dropbox/GSM/proquest-1.csv",header=TRUE,row.names=1,check.names=FALSE)
 pq2=read.csv("/Users/elizabethmckenna/Dropbox/GSM/proquest-2.csv",header=TRUE,row.names=1,check.names=FALSE)
