@@ -1,0 +1,76 @@
+Codebook/Decision Rules
+
+“Left” and “right” are woefully inadequate descriptors for the complicated political currents of transnational social movements (and the dissertations written about them). But pattern-detection requires some degree of reduction, so I tried to do this as systematically as possible. TBH this is a super preliminary attempt and I did it on a plane flight so I’m sure there are errors. After reading the title and abstract, I first extracted the specific claim, then grouped it into a meta-claim, and then extrapolated to code as Right or Left. 
+
+Right codes/key words:
+
+-fascism
+-conservative
+-liberal (European, LatAm Usage);
+-reactionary
+-traditional society
+-monarchist
+-nativist
+-xenophobic
+-nationalist
+-religious conservatives (Pentecostal, evangelical)
+-classic liberalism
+-pro-capital (owners of the means of production, e.g. agribusiness, finance capital, etc.)
+-elite causes
+-imperialism
+-guns/arms (e.g. NRA)
+-military industrial complex
+-anti-taxation
+-anti-racial justice (e.g. against affirmative action, etc.)
+-“corporate” or pro-company/mgmt unions 
+-police culture; state violence
+-colonization
+-missionary conversion
+-nationalism, militarism
+-libertarianism
+-small state, privatization
+
+Left codes/key words:
+
+-environmental/green politics (slow or organic food movements, urban agriculture)
+-pro-immigrant, migrant, or refugee causes
+-human rights
+-communism, socialism
+-racial justice (e.g. affirmative action, black power, BLM)
+-feminism
+-liberation theology
+-right to the city (housing, transportation)
+-anti/alter-globalization; counter-hegemony
+-racial, ethnic, sexual, or other economic or political minorities (LGBTQ, peasants, indigenous populations, formerly incarcerated, drug users, sex workers, waste-pickers, proletarianism)
+-welfare rights (CCTs, state-led anti-poverty programs)
+-nuclear non-proliferation
+-anti-colonialism/decolonization
+-peace/pacifism
+-popular education
+-international cooperation
+-public arts/music/literature/folk
+-anti-poverty/human development
+-pro-labor; union
+-anarchism
+-citizen participation (participatory budgeting)
+-nationalization of industry
+-liberal (US usage)
+-progressive
+-emancipation
+
+CSR
+
+I classified studies of social corporate responsibility as elite-led movements, and therefore they were categorized by the above decision rule as Right. I don’t expect this to be a consensus code. However, all of the raw and coded data are in this repo, so I welcome pushback and reclassification suggestions ;)
+
+Unknown examples:
+
+Examples of things I coded as unknown (L or R):
+
+—American Zionism and its relation to Progressive Reformism (Justice Brandeis, etc. in US)
+—Arab calligraphy
+—Open-source software movement
+—Militant groups in the Niger Delta
+
+Education:
+
+The education meta-claim had several unknowns. There was one dissertation on the homeschooling movement in the US, but it talked about traditional values and the relationship to conservative Christians, so I took the liberty to code it as Right. But I had no idea what to do with, for example, the Theater-in-Education movement in Taiwan and the Imam-Hatip school movement in Turkey, so I coded them as unknown.
